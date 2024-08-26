@@ -4,6 +4,6 @@ This study addresses the urgent need for more accurate predictive models for sov
 
 ---
 
-**Attribution**: This repo is built as part of the FRE-6123 course project under Prof. Adams.
+**Attribution**: This repo is built as part of the FRE-6123 course project under Prof. Adams. Teammates: Haritha, Deepak and Gitika.
 
 ---
